@@ -1,4 +1,5 @@
-# Assignment 3 – Optimization of a City Transportation Network  
+# Assignment 3 
+
 ## (Minimum Spanning Tree: Prim’s and Kruskal’s Algorithms)
 
 ### Objective  
