@@ -16,12 +16,10 @@ Each algorithm was executed on multiple datasets with varying numbers of vertice
 | Small         | 5                | 30             | 8–12         | Correctness & debugging |
 | Medium        | 10               | 300            | 6–10         | Performance observation |
 | Large         | 10               | 1000           | ~6           | Scalability evaluation |
-| Extra-Large   | 3                | 1300–2000      | ~6           | Stress testing & efficiency comparison |
-
 
 ---
 
-## 📊 2. Summary of Results
+## 2. Summary of Results
 
 Below are selected results extracted from `summary.csv`.
 
