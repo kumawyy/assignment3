@@ -88,7 +88,7 @@ Automated tests verify correctness, equal costs, acyclicity, and proper handling
 | Large       | 1000      | 45.1           | 39.8              | 19000 |
 
  Both algorithms produced identical MST costs.
-⚡ Kruskal’s algorithm was ~15–25% faster on sparse and medium graphs.
+Kruskal’s algorithm was ~15–25% faster on sparse and medium graphs.
 
 ---
 
